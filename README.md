@@ -1,1 +1,3 @@
-First test repo on the Complete Ruby on Rails Developer Course by Mashrur Hossain
+1. Display "Hello World!" in browser.
+2. Formalize using rails convention.
+3. Review MVC diagram for information flow. 
